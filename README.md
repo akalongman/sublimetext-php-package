@@ -3,7 +3,7 @@ sublimetext-php-package
 
 Sublime Text PHP package updated bundle
 
-Added more then 100 new (php 5.2, 5.3, 5.4) constants, functions and class methods
+Added more than 100 new (php ver. 5.0 - 5.5) constant, function, method highlights and completions
 
 ## Installation
 
