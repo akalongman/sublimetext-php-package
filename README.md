@@ -7,7 +7,7 @@ Added more than 100 new (php ver. 5.0 - 5.5) constant, function, method highligh
 
 ## Installation
 
-    git clone https://github.com/LONGMANi/sublimetext-php-package "<Sublime Text Packages folder>/User/PHP"
+    git clone https://github.com/akalongman/sublimetext-php-package "<Sublime Text Packages folder>/User/PHP"
 
 or download as archive and extract in "<Sublime Text Packages folder>/User/PHP"
 
