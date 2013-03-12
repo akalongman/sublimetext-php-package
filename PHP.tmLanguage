@@ -961,7 +961,7 @@
 				</dict>
 				<dict>
 					<key>begin</key>
-					<string>(?:^\s*)((?:(?:final|abstract|public|private|protected|static)\s+)*)(function|parent)(?:(?:\s+|(\s*&amp;\s*))|::)(?:(__(?:call|(?:con|de)struct|get|(?:is|un)?set|tostring|clone|set_state|sleep|wakeup|autoload))|([a-zA-Z0-9_]+))\s*(\()</string>
+					<string>(?:^\s*)((?:(?:final|abstract|public|private|protected|static)\s+)*)(function)(?:(?:\s+|(\s*&amp;\s*))|::)(?:(__(?:call|(?:con|de)struct|get|(?:is|un)?set|tostring|clone|set_state|sleep|wakeup|autoload))|([a-zA-Z0-9_]+))\s*(\()</string>
 					<key>beginCaptures</key>
 					<dict>
 						<key>1</key>
